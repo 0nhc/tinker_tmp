@@ -10,7 +10,7 @@
 
 ### 1.1替换原因
 
-* [这个定位包的IEEE论文]([IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7964053))
+* [这个定位包的IEEE论文](Efficient_localization_based_on_scan_matching_with_a_continuous_likelihood_field.pdf)
 
 * 大概意思是先描述了一下这个定位方法是基于scan matching的（ICP也是），然后说这个算法解决了ICP的一些问题，论文最后还对比了在不同数据集上定位的速度，比AMCL快很多。
 
